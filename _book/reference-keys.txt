@@ -1,7 +1,9 @@
-fig:nice-fig
 tab:nice-tab
 prerequisites
-intro
+charts
+reference-chapter
+reference-a-table
+citation
 literature
 methods
 applications
